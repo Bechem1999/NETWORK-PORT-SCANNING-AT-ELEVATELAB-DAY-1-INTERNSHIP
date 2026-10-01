@@ -326,8 +326,11 @@ This project was completed as **Task 1 of my Cybersecurity Internship at Elevate
 The project provided practical experience in network reconnaissance, port scanning, service identification, packet analysis and security assessment.
 
 ---
+# 👨‍💻 Author
 
+ATEMLEFAC NKAFU BECHEM
 
+Cybersecurity Engineer
 
 ---
 
